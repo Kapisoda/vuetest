@@ -2,7 +2,7 @@
   <div class="row">
     <div class="col-xs-12">
       <header>
-        <h1>Server Status</h1>
+        <h1>Pitanja</h1>
       </header>
     </div>
   </div>
@@ -11,6 +11,3 @@
 <script>
 
 </script>
-
-
-
